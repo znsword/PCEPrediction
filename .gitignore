@@ -25,6 +25,7 @@ MANIFEST
 # Data and Results
 data/
 results/
+outputs/
 backup/
 *.csv
 *.xlsx
